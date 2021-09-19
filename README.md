@@ -1,1 +1,1 @@
-# https-github.com-Romit-Mohanty-1-CS698R-ROMIT-MOHANTY-190720-MIDSEM
+# Romit-Mohanty-1-CS698R-ROMIT-MOHANTY-190720-MIDSEM
