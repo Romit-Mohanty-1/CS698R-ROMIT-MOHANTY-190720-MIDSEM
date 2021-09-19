@@ -1,0 +1,1 @@
+from ms_1.env.random_maze import RandomMaze
